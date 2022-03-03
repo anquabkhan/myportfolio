@@ -9,7 +9,9 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root') ,
+  App.use(express.static("C:\Users\Akif\Vscode_Projects\anquab_portfolio\anquab_portfolio\build"))
+
 );
 
 // If you want to start measuring performance in your app, pass a function
