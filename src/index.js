@@ -9,8 +9,8 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root') ,
-  App.use(express.static("C:\Users\Akif\Vscode_Projects\anquab_portfolio\anquab_portfolio\build"))
+  document.getElementById('root') 
+  // App.use(express.static("C:\Users\Akif\Vscode_Projects\anquab_portfolio\anquab_portfolio\build"))
 
 );
 

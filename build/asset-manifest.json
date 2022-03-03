@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/anquabkhan/portfolio.git/static/css/main.ddbaed9b.css",
+    "main.js": "/anquabkhan/portfolio.git/static/js/main.9ee6e665.js",
+    "static/js/415.6ae4ab04.chunk.js": "/anquabkhan/portfolio.git/static/js/415.6ae4ab04.chunk.js",
+    "static/js/787.ea71b498.chunk.js": "/anquabkhan/portfolio.git/static/js/787.ea71b498.chunk.js",
+    "static/media/Profile_pic.png": "/anquabkhan/portfolio.git/static/media/Profile_pic.09d5cb76043da2f4fe04.png",
+    "static/media/Abdul_FaceApp.png": "/anquabkhan/portfolio.git/static/media/Abdul_FaceApp.1cb5543f451ffae839ef.png",
+    "static/media/instagram.png": "/anquabkhan/portfolio.git/static/media/instagram.ec51638743c8e7b52f08.png",
+    "static/media/logo.svg": "/anquabkhan/portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anquabkhan/portfolio.git/index.html",
+    "main.ddbaed9b.css.map": "/anquabkhan/portfolio.git/static/css/main.ddbaed9b.css.map",
+    "main.9ee6e665.js.map": "/anquabkhan/portfolio.git/static/js/main.9ee6e665.js.map",
+    "415.6ae4ab04.chunk.js.map": "/anquabkhan/portfolio.git/static/js/415.6ae4ab04.chunk.js.map",
+    "787.ea71b498.chunk.js.map": "/anquabkhan/portfolio.git/static/js/787.ea71b498.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddbaed9b.css",
+    "static/js/main.9ee6e665.js"
+  ]
+}
