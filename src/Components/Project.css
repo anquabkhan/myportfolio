@@ -1,0 +1,9 @@
+.Paratext{
+    background-color: brown ;
+    position: absolute ;
+    width: fit-content ;
+    width: -moz-fit-content;
+    height: fit-content ;
+    left: 0 ;
+    top: 50% ;
+}
